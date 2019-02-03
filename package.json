@@ -1,0 +1,14 @@
+{
+	"name": "parcel-plugin-imba",
+	"version": "0.1.2",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:altteo/parcel-plugin-imba.git"
+	},
+	"author": "Fedor Leschinsky",
+	"license": "MIT",
+	"dependencies": {
+		"imba": "^1.4.1"
+	}
+}
